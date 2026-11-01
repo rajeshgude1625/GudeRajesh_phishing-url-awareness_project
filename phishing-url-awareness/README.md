@@ -70,4 +70,10 @@ This is an educational tool. It only reads URL text. It does not visit URLs, sca
 Use sample strings only. Do not collect credentials. Do not use this project to deceive anyone or to test websites without permission.
 
 ## Author
-Gude Rajesh, AI-Powered Cybersecurity Internship, EWB Courses
+Name:Gude Rajesh
+
+GitHub Username:rajeshgude1625
+
+GitHub Repository:https://github.com/rajeshgude1625/GudeRajesh_phishing-url-awareness_project.git
+
+Internship:EWB AI POWERED CYBERSECURITY INTERNSHIP
